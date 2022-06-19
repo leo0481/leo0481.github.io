@@ -19,4 +19,5 @@ Liao, Jie is a first-year Ph.D. student at [School of Big Data & Software Engine
 His current research interests include Recommender System and Graph Neural Network.
 
 ## Preprint
-- **Jie Liao**, Wei Zhou, Junhao Wen, Min Gao, Xiuhua Li, Jun Zeng, Fengji Luo. **SocialLGN: Light Graph Convolution Network for Social Recommendation.** (under journal submission)
+- **Jie Liao**, Wei Zhou, Fengji Luo, Junhao Wen, Min Gao, Xiuhua Li, Jun Zeng. SocialLGN: Light Graph Convolution Network for Social Recommendation. Information Sciences, 2022. (CCF-B)
+- **Jie Liao**, Wei Zhou, Fengji Luo, Junhao Wen. Enhancing Disentanglement of Popularity Bias for Recommendation with Contrastive Learning. (Under Journal Submission)
