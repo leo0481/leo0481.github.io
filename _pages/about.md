@@ -14,7 +14,7 @@ redirect_from:
 * Email: liaojie@cqu.edu.cn
 
 ## Brief Biography
-Liao, Jie is a first-year Ph.D. student at [School of Big Data & Software Engineering, Chongqing University ](http://www.cse.cqu.edu.cn/). He completed his BS at [College of Mathematics and Statistics, Chongqing University](http://sci.cqu.edu.cn/).
+Liao, Jie is a second-year Ph.D. student at [School of Big Data & Software Engineering, Chongqing University ](http://www.cse.cqu.edu.cn/). He completed his BS at [College of Mathematics and Statistics, Chongqing University](http://sci.cqu.edu.cn/).
 
 His current research interests include Recommender System and Graph Neural Network.
 
